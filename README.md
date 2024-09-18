@@ -113,3 +113,9 @@ Tasks are stored in a JSON file called `tasks.json` located in the same director
 - If the task file is not found, you will be prompted with a message.
 - If you pass an invalid filter to the `list` command, the script will notify you to use a valid filter (`todo`, `in-progress`, or `done`).
 - If you try to delete or update a task that doesn’t exist, you will be informed.
+
+## Project Link
+
+[](https://github.com/dennisziegel/CLI-Task-Tracker-Python/tree/main?tab=readme-ov-file#project-link)
+
+For more details about this project, visit the [Task Tracker Project Roadmap](https://roadmap.sh/projects/task-tracker).
